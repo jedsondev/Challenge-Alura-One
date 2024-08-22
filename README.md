@@ -1,6 +1,6 @@
 # Challenge-Alura-One
 
-## O decodificador de texto tem como finalidade criptografar e descriptografar mensagens a partir da modificação das vogais contidas nas palavras do texto.![foto challenge](https://github.com/user-attachments/assets/8204e467-ea43-4662-bbac-938163b12029)
+## O decodificador de texto tem como finalidade encriptar e desencriptar mensagens a partir da modificação das vogais contidas nas palavras do texto.![foto challenge](https://github.com/user-attachments/assets/8204e467-ea43-4662-bbac-938163b12029)
 
 
 ### Regra para criptografar:
